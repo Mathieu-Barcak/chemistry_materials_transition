@@ -202,7 +202,7 @@ ___
 
 * `git push remotename branchname`
 	* uploads the local repository to the remote repository
-* `git push -u remotenaem branchname`
+* `git push -u remotename branchname`
 	* will setup upstream so that you can just use the command `git push`
 
 ### Git Pull
