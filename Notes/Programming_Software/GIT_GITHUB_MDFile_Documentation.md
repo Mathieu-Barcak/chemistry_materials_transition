@@ -52,6 +52,8 @@ ___
 * `mkdir directoryone (directoryect)`
 	* will make a new directory or more than one
 	* directory is the same thing as folder
+* `git mv old_name new_name`
+	* will change the name of a directory or file and keep track of the history
 * `git --version`
 	* check what version of git that you are running
 * `git status`
@@ -234,7 +236,7 @@ ___
 ## Open-source workflow
 
 * On GitHub
-	1. Fork the codebase
+	1. fork the codebase
 	2. make changes and track with git
 	3. make a pull request
 * On git
@@ -315,8 +317,8 @@ Characters that can be escaped:
 
 ###	Code and Code Blocks Syntax
 
-* Use \` to surround the code
-* If the code has \` in it then surround the code with \`\`
+* use \` to surround the code
+* if the code has \` in it then surround the code with \`\`
 * for larger code blocks before the code add \`\`\` coding language
 * after the last line of code add a new line with \`\`\`
 * another way to make code blocks is to indent the entire section
